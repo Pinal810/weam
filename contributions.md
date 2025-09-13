@@ -34,8 +34,8 @@
 | Name | GitHub Profile |
 |------|----------------|
 | Member 1 | [@pandyaronak](https://github.com/pandyaronak) |
-| Member 2 | [@kevalkhetani151](https://github.com/kevalkhetani151) |
-| Member 3 | [@username](https://github.com/username) |
+| Member 2 | [@username](https://github.com/username) |
+| Member 3 | [@Pinal810](https://github.com/Pinal810) |
 | Member 3 | [@username](https://github.com/username) |
 
 
